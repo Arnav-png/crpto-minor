@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://Arnav-png.github.io/react-gh-pages",
+  "homepage": "https://Arnav-png.github.io/crypto-minor",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
