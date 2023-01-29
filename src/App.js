@@ -5,6 +5,7 @@ import Header from "./components/Header";
 
 // yellow rgb(252, 223, 3)
 // yellow#fcdf03
+//class
 
 export default class App extends Component {
   constructor() {
